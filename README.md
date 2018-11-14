@@ -113,7 +113,7 @@ export PATH="$PATH:/usr/local/cuda/bin"
 source ~/.bashrc
 ```   
 
-5. Install miniconda   
+5. Install miniconda (only if you want to use conda)    
 ``` bash
 wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64.sh   
